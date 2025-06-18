@@ -51,7 +51,7 @@
 <br/>
 
 <h3>2) 프로젝트 구조</h3>
-<img width="786" alt="Image" src="https://github.com/user-attachments/assets/c6036757-cfb7-41f7-a5d4-c5d8aec725cd" />
+<img width="694" alt="Image" src="https://github.com/user-attachments/assets/120d1fd6-acfe-4ed2-b7f6-3a16f56e8b88" />
 <br/>
 
 <h3>3) 매뉴얼</h3>
