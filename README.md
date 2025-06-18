@@ -108,3 +108,14 @@
 [![Video Label](http://img.youtube.com/vi/Ier0guT5iQI/0.jpg)](https://youtu.be/Ier0guT5iQI)
 
 링크: https://www.youtube.com/watch?v=Ier0guT5iQI
+
+<br/>
+
+<h3>7) 참고사항</h3>
+보안상의 사유로 GoogleService-Info.plist 파일과 PropertyList.plist 파일은 Git에 포함되어 있지 않습니다. 다음 단계를 따라주세요.
+
+- Firebase 콘솔에서 iOS 앱에 연결된 'GoogleService-Info.plist'를 다운로드해 주세요.
+- 다운로드한 파일을 Xcode 프로젝트 루트에 추가해 주세요.
+- OpenWeatherMap에서 API Key를 생성해주세요.
+- Xcode 프로젝트 루트에 Property List 형식의 'PropertyList.plist' 파일을 만들어주세요.
+- 'PropertyList.plist'에 Key에는'OPENWEATHERMAP_KEY'를, Value에는 생성한 API Key를 추가해주세요.
